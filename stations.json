@@ -1,0 +1,2802 @@
+[
+  {
+    "name": "Christmas Vinyl HD",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/christmas",
+    "logo": "https://www.eternityready.com/radio/img/Christmas Vinyl HD.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WALM HD",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/walm",
+    "logo": "https://www.eternityready.com/radio/img/WALM HD.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WALM 2 HD",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/walm2",
+    "logo": "https://www.eternityready.com/radio/img/WALM 2 HD.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "choral"
+    ]
+  },
+  {
+    "name": "WALM 2 HD Opus",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/walm2_opus",
+    "logo": "https://www.eternityready.com/radio/img/WALM 2 HD Opus.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "choral"
+    ]
+  },
+  {
+    "name": "Christmas Vinyl HD Opus",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/christmas_opus",
+    "logo": "https://www.eternityready.com/radio/img/Christmas Vinyl HD Opus.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Nigerian Gospel Music Radio (MP3)",
+    "description": "Christian radio station from Nigeria.",
+    "src": "http://stream-160.zeno.fm/3fmqr74a7f8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzZm1xcjc0YTdmOHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibW5UX0p3N2ZUTnlVSUtwN2gxMkJXUSIsImlhdCI6MTc1NDU1MjczNiwiZXhwIjoxNzU0NTUyNzk2fQ.yzeQwjvy0Ho1TLt1FmQZdshdMs4toydMiVSQXak6GRM",
+    "logo": "https://www.eternityready.com/radio/img/Nigerian Gospel Music Radio (MP3).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "JESUS IS LORD Radio",
+    "description": "Christian radio station from Kenya.",
+    "src": "https://s3.radio.co/s97f38db97/listen",
+    "logo": "https://www.eternityready.com/radio/img/JESUS IS LORD Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Afrobeats Gospel Radio",
+    "description": "Christian radio station from Nigeria.",
+    "src": "https://stream-172.zeno.fm/zyd9stmdlnlvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eWQ5c3RtZGxubHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUW95ZnU3R1dUM21tdkNOZ1hlQjd1USIsImlhdCI6MTc1NDU3NTE5NiwiZXhwIjoxNzU0NTc1MjU2fQ.gclU9mfiFd4VhPS09fz2Eib6UAdD9L-dJ7bP5O_PqfE",
+    "logo": "https://www.eternityready.com/radio/img/Afrobeats Gospel Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "african"
+    ]
+  },
+  {
+    "name": "Rádio Lumen",
+    "description": "Christian radio station from Slovakia.",
+    "src": "http://audio.lumen.sk:8000/live128.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Rádio Lumen.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio Mojdeh",
+    "description": "Christian radio station from Islamic Republic Of Iran.",
+    "src": "http://ic2326.c1261.fast-serv.com/rm128",
+    "logo": "https://www.eternityready.com/radio/img/Radio Mojdeh.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "adventista"
+    ]
+  },
+  {
+    "name": "RADIO MARIA ITALY",
+    "description": "Christian radio station from Italy.",
+    "src": "http://dreamsiteradiocp2.com:8016/stream",
+    "logo": "https://www.eternityready.com/radio/img/RADIO MARIA ITALY.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio Cultural TGN",
+    "description": "Christian radio station from Guatemala.",
+    "src": "https://stream.infinityhdstream.com/7054/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Cultural TGN.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian-gospel"
+    ]
+  },
+  {
+    "name": "Radio Buon Consiglio",
+    "description": "Christian radio station from Italy.",
+    "src": "http://streaming.radiobuonconsiglio.it:8000/;",
+    "logo": "https://www.eternityready.com/radio/img/Radio Buon Consiglio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Gospel FM Jamaica",
+    "description": "Christian radio station from Jamaica.",
+    "src": "https://stream-153.zeno.fm/zpksre88rm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cGtzcmU4OHJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDN3YThYcHFUZGk5ZEM3QmtEZlp3ZyIsImlhdCI6MTc1NDU0MzcxMywiZXhwIjoxNzU0NTQzNzczfQ.fEdoOKP4p9HvP7Wh_W8pwllJHgk4BWX70xR3M6WqYwU",
+    "logo": "https://www.eternityready.com/radio/img/Gospel FM Jamaica.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Uganda Gospel Radio",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-178.zeno.fm/6jkihekmzt2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2amtpaGVrbXp0MnZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibWRmWDdpckpTZDZ2cGFLNUExNEJvZyIsImlhdCI6MTc1NDUzMjczMiwiZXhwIjoxNzU0NTMyNzkyfQ.Y3HoayX2btn8Rmvjx-2vpH5DQUE7O_8rEQ9kdfEbjbg",
+    "logo": "https://www.eternityready.com/radio/img/Uganda Gospel Radio.webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christian Mezmur Ethiopia",
+    "description": "Christian radio station from Ethiopia.",
+    "src": "https://stream-178.zeno.fm/0bws6ct0ey8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYndzNmN0MGV5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZjF5R04wVzJST2VDelhNam9fREJQQSIsImlhdCI6MTc1NDU3ODM1MCwiZXhwIjoxNzU0NTc4NDEwfQ.uYG8YS6AqCrZ_dFUYzM6XzhkgxaTsVYpMHNfHErxA6w",
+    "logo": "https://www.eternityready.com/radio/img/Christian Mezmur Ethiopia.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Orthodoxia",
+    "description": "Christian radio station from Poland.",
+    "src": "https://stream.orthodoxia.pl/stream192.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Orthodoxia.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Groot Nieuws Radio",
+    "description": "Christian radio station from The Netherlands.",
+    "src": "https://27913.live.streamtheworld.com:443/GNR.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Groot Nieuws Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "INFORMA RADIO",
+    "description": "Christian radio station from Spain.",
+    "src": "https://24x7.red:42045/informa",
+    "logo": "https://www.eternityready.com/radio/img/INFORMA RADIO.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "albacete"
+    ]
+  },
+  {
+    "name": "Christian Power Praise Dot Net",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://listen.christianrock.net/stream/13/",
+    "logo": "https://www.eternityready.com/radio/img/Christian Power Praise Dot Net.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Радонеж",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "http://icecast.radonezh.cdnvideo.ru:8000/rad",
+    "logo": "https://www.eternityready.com/radio/img/Радонеж.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christian Talk FM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://n03.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABmIQ_V54AbGKjhRndNlSvVw",
+    "logo": "https://www.eternityready.com/radio/img/Christian Talk FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian talk"
+    ]
+  },
+  {
+    "name": "DWG Radio Bumese",
+    "description": "Christian radio station from Myanmar.",
+    "src": "http://server32349.streamplus.de/;?type=http&#038;nocache=227",
+    "logo": "https://www.eternityready.com/radio/img/DWG Radio Bumese.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Uhai",
+    "description": "Christian radio station from United Republic Of Tanzania.",
+    "src": "https://s2.citrus3.com:8050/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Uhai.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "RCF Bruxelles",
+    "description": "Christian radio station from Belgium.",
+    "src": "http://rcf.streamakaci.com/rcfbruxelles.mp3",
+    "logo": "https://www.eternityready.com/radio/img/RCF Bruxelles.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Rádio Novo Tempo",
+    "description": "Christian radio station from Brazil.",
+    "src": "https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8",
+    "logo": "https://www.eternityready.com/radio/img/Rádio Novo Tempo.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "adventist"
+    ]
+  },
+  {
+    "name": "Radio Vaticana English",
+    "description": "Christian radio station from The Holy See.",
+    "src": "https://radio.vaticannews.va/stream-en",
+    "logo": "https://www.eternityready.com/radio/img/Radio Vaticana English.jpeg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio Espérance Grégorien",
+    "description": "Christian radio station from France.",
+    "src": "https://esperance.streamakaci.com/gregorien.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Espérance Grégorien.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Emaus",
+    "description": "Christian radio station from Poland.",
+    "src": "http://stream.radioemaus.pl:8000/oggstream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Emaus.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Maria France",
+    "description": "Christian radio station from France.",
+    "src": "http://dreamsiteradiocp4.com:8056/",
+    "logo": "https://www.eternityready.com/radio/img/Radio Maria France.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Love 101 FM",
+    "description": "Christian radio station from Jamaica.",
+    "src": "https://stream-140.zeno.fm/webzstrtpy5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZWJ6c3RydHB5NXR2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX3BQYWdGdFZSTlNCRUFjaGRmV1Y5dyIsImlhdCI6MTc1NDU3MDczMSwiZXhwIjoxNzU0NTcwNzkxfQ.i2Pa60ApuV7REwy_21MmcyD0nZMOooPuzRR-lt7Tm-A",
+    "logo": "https://www.eternityready.com/radio/img/Love 101 FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Patmos",
+    "description": "Christian radio station from Finland.",
+    "src": "http://s3.yesstreaming.net:7011/radio",
+    "logo": "https://www.eternityready.com/radio/img/Radio Patmos.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Horeb (32 kbps)",
+    "description": "Christian radio station from Germany.",
+    "src": "http://dreamsiteradiocp.com:8114/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Horeb (32 kbps).ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Bluegrass Hymns",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7840/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Bluegrass Hymns.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Spirit Online",
+    "description": "Christian radio station from Indonesia.",
+    "src": "https://a11.asurahosting.com:7470/spirit_online",
+    "logo": "https://www.eternityready.com/radio/img/Spirit Online.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Birhan Gospel Radio",
+    "description": "Christian radio station from Ethiopia.",
+    "src": "https://stream-175.zeno.fm/qt90skpqp0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdDkwc2twcXAwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWlBwUHpZdldSLXVKdkdDQUtOUlF6dyIsImlhdCI6MTc1NDU2NDE0NSwiZXhwIjoxNzU0NTY0MjA1fQ.09IB2gx9mjrEus_8SDLSLHVCSDRplER0-mkg6GXqIck",
+    "logo": "https://www.eternityready.com/radio/img/Birhan Gospel Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Instrumental",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7800/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Instrumental.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Открытое Слово Инструментальная музыка",
+    "description": "Christian radio station from Belarus.",
+    "src": "https://rt.radioslovo.net:4275/stream",
+    "logo": "https://www.eternityready.com/radio/img/Открытое Слово Инструментальная музыка.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Hopefy Radio MG",
+    "description": "Christian radio station from Madagascar.",
+    "src": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Hopefy Radio MG.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "description": "Christian radio station from Japan.",
+    "src": "https://streaming.radio.co/se4a8e6a93/listen",
+    "logo": "https://www.eternityready.com/radio/img/羊飼いラジオ Hitsujikai Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "3ABN Christian Radio",
+    "description": "Christian radio station from New Zealand.",
+    "src": "https://stream.3abnaustralia.org.au:8443/stream",
+    "logo": "https://www.eternityready.com/radio/img/3ABN Christian Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible teaching"
+    ]
+  },
+  {
+    "name": "Radio Visión Cristiana Internacional",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/",
+    "logo": "https://www.eternityready.com/radio/img/Radio Visión Cristiana Internacional.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Life FM - AAC",
+    "description": "Christian radio station from New Zealand.",
+    "src": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+    "logo": "https://www.eternityready.com/radio/img/Life FM - AAC.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Svetigora",
+    "description": "Christian radio station from Montenegro.",
+    "src": "http://svetigoralive.com:8879/;",
+    "logo": "https://www.eternityready.com/radio/img/Radio Svetigora.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Φλόγα Ορθόδοξο Ραδιόφωνο",
+    "description": "Christian radio station from Greece.",
+    "src": "https://stream-179.zeno.fm/s59eutgtf48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNTlldXRndGY0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVRkZDdaS05UMENSWWF2ME9LZWZYdyIsImlhdCI6MTc1NDU2MjU5MywiZXhwIjoxNzU0NTYyNjUzfQ.qirPnIxC84s3Scjn4oHDW1DV6I9SexAcH-2ftiyayUU&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "logo": "https://www.eternityready.com/radio/img/Φλόγα Ορθόδοξο Ραδιόφωνο.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Радио Новая Жизнь",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "https://nlradio.stream:8000/nlradio-hi.aac",
+    "logo": "https://www.eternityready.com/radio/img/Радио Новая Жизнь.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "AIR1",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://emf-seg001267.cdnstream1.com/seg001267-i64.aac?platform=airable&city=&country=austria&geo_api=abstract_ip&latitude=48.2048&longitude=16.3801&opawg_result=false&region=&segment=001267&t=1&k=5qaQPiD2bLAmboAF7CF1zS2wrEY5g_vyosObqKKRyCVYoTYhutFPMeeA8lQAG5ziaOr4441KxLRCrKW0M3zNBrnFPH4NDqrvRsg0nasvGs6fR77crGvuyp3IpdhPVPXh",
+    "logo": "https://www.eternityready.com/radio/img/AIR1.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christian Rock Dot Net",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://listen.christianrock.net/stream/11/",
+    "logo": "https://www.eternityready.com/radio/img/Christian Rock Dot Net.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Εκκλησία της Ελλάδας 89.5",
+    "description": "Christian radio station from Greece.",
+    "src": "https://loki.mental-media.gr:8038/index.html",
+    "logo": "https://www.eternityready.com/radio/img/Εκκλησία της Ελλάδας 89.5.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Family Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://ais-sa3.cdnstream1.com/2640_64.aac",
+    "logo": "https://www.eternityready.com/radio/img/Family Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "alistair begg"
+    ]
+  },
+  {
+    "name": "Parousia Radio",
+    "description": "Christian radio station from Ghana.",
+    "src": "https://radio.parousiaempire.org:8000/radio.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Parousia Radio.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "3ABN Music Channel",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://war.streamguys1.com:7185/MC01",
+    "logo": "https://www.eternityready.com/radio/img/3ABN Music Channel.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "adventist"
+    ]
+  },
+  {
+    "name": "Life Channel",
+    "description": "Christian radio station from Unknown.",
+    "src": "https://stream1.lifechannel.ch/LIFECHANNEL",
+    "logo": "https://www.eternityready.com/radio/img/Life Channel.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "browserfriendly"
+    ]
+  },
+  {
+    "name": "Gospel Plus (MP3)",
+    "description": "Christian radio station from Australia.",
+    "src": "http://stream-161.zeno.fm/8m3ue57r1uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4bTN1ZTU3cjF1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX3ppVHJpenFUUTJyMGQyb0JjM2FBUSIsImlhdCI6MTc1NDQ5NDMyNSwiZXhwIjoxNzU0NDk0Mzg1fQ.zHDIh99k72tW05zlL0j98OrjsZbeo6i1SPFPgTO_7SM",
+    "logo": "https://www.eternityready.com/radio/img/Gospel Plus (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Fundamental Broadcasting Network",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://ice8.securenetsystems.net/WOTJ",
+    "logo": "https://www.eternityready.com/radio/img/Fundamental Broadcasting Network.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "The House FM, 88.5 OKC-Wichita",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://klvv-thehouse.streamguys1.com/TheHouse128kAAC-iheart",
+    "logo": "https://www.eternityready.com/radio/img/The House FM, 88.5 OKC-Wichita.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Classical Catholic Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://das-edge13-live365-dal02.cdnstream.com/a64105",
+    "logo": "https://www.eternityready.com/radio/img/Classical Catholic Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Innerman FM - Kampala - 107.5 FM (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://dc4.serverse.com/proxy/aqzyrakq/stream",
+    "logo": "https://www.eternityready.com/radio/img/Innerman FM - Kampala - 107.5 FM (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Wandering Sheep Radio - Jazz Cafe",
+    "description": "Christian radio station from New Zealand.",
+    "src": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+    "logo": "https://www.eternityready.com/radio/img/Wandering Sheep Radio - Jazz Cafe.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "RADIO ZION 540 (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+    "description": "Christian radio station from Mexico.",
+    "src": "http://zionmultimedia.live/radio/8010/radio.mp3",
+    "logo": "https://www.eternityready.com/radio/img/RADIO ZION 540 (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "540 am"
+    ]
+  },
+  {
+    "name": "Heaven Radio (India)",
+    "description": "Christian radio station from India.",
+    "src": "https://stream-176.zeno.fm/eequgfw72hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZXF1Z2Z3NzJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNWswcGI3Tm9RSks4R1RFLW12a0dSdyIsImlhdCI6MTc1NDU0MDA0NywiZXhwIjoxNzU0NTQwMTA3fQ.M5ir96Xb2NLQGirkko9GmclSBF4cjn1qnyJYaK4U7ro",
+    "logo": "https://www.eternityready.com/radio/img/Heaven Radio (India).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Гэр бүлийн радио 104.5",
+    "description": "Christian radio station from Mongolia.",
+    "src": "https://c2.radioboss.fm/stream/394",
+    "logo": "https://www.eternityready.com/radio/img/Гэр бүлийн радио 104.5.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Chrzescijanin - 2",
+    "description": "Christian radio station from Poland.",
+    "src": "http://s1.slotex.pl:7002/;",
+    "logo": "https://www.eternityready.com/radio/img/Radio Chrzescijanin - 2.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Hrvatski Katolički Radio",
+    "description": "Christian radio station from Croatia.",
+    "src": "https://stream.hkr.hr/hkr.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Hrvatski Katolički Radio.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "chatolic"
+    ]
+  },
+  {
+    "name": "CBN Classic Christian Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer",
+    "logo": "https://www.eternityready.com/radio/img/CBN Classic Christian Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "70s"
+    ]
+  },
+  {
+    "name": "Radio Vaticana Deutsch",
+    "description": "Christian radio station from The Holy See.",
+    "src": "https://radio.vaticannews.va/stream-de",
+    "logo": "https://www.eternityready.com/radio/img/Radio Vaticana Deutsch.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "104.1 Favour FM - Gulu - 104.1 FM",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "logo": "https://www.eternityready.com/radio/img/104.1 Favour FM - Gulu - 104.1 FM.webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "98.5 KTIS",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://nwm.streamguys1.com/ktis-fm-4",
+    "logo": "https://www.eternityready.com/radio/img/98.5 KTIS.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "BRN Radio - Arabic Channel",
+    "description": "Christian radio station from US Virgin Islands.",
+    "src": "http://192.241.185.108:8094/stream",
+    "logo": "https://www.eternityready.com/radio/img/BRN Radio - Arabic Channel.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "Christian Hits",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://shoutcast.christianrock.net/stream/5/",
+    "logo": "https://www.eternityready.com/radio/img/Christian Hits.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "CRM 92.4 Worship",
+    "description": "Christian radio station from Germany.",
+    "src": "http://crm924worship.stream.laut.fm/crm924_worship?t302=2025-08-07_02-51-55&uuid=1cd84106-1f77-42fc-9f3b-03b2085ed601",
+    "logo": "https://www.eternityready.com/radio/img/CRM 92.4 Worship.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "RadioU Fusion:EDM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://s5.reliastream.com/proxy/edm?mp=",
+    "logo": "https://www.eternityready.com/radio/img/RadioU Fusion:EDM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Transmundial Bonaire 800 Khz",
+    "description": "Christian radio station from Bonaire.",
+    "src": "https://cdn.instream.audio/:9050/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Transmundial Bonaire 800 Khz.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WLVU K-Love Nashville 97.1 FM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://emf-seg001172.cdnstream1.com/seg001172-h128/playlist.m3u8",
+    "logo": "https://www.eternityready.com/radio/img/WLVU K-Love Nashville 97.1 FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "WIGN - 1550 AM Bluegrass Gospel",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://mountain.radioca.st/stream",
+    "logo": "https://www.eternityready.com/radio/img/WIGN - 1550 AM Bluegrass Gospel.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "Sanctuary - AAC",
+    "description": "Christian radio station from New Zealand.",
+    "src": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac",
+    "logo": "https://www.eternityready.com/radio/img/Sanctuary - AAC.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Maria Brazil",
+    "description": "Christian radio station from Brazil.",
+    "src": "http://dreamsiteradiocp.com:8064/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Maria Brazil.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Relevant Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://17653.live.streamtheworld.com:443/RR_MAIN.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Relevant Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "EWTN - Radio Católica Mundial",
+    "description": "Christian radio station from Unknown.",
+    "src": "https://ewtn-ice.streamguys1.com/spanish-aac",
+    "logo": "https://www.eternityready.com/radio/img/EWTN - Radio Católica Mundial.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "DOC Radio - Christian Hits",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://server10.reliastream.com:8043/stream",
+    "logo": "https://www.eternityready.com/radio/img/DOC Radio - Christian Hits.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "100.9 FM The Hill",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://audio-edge-qse4n.yyz.g.radiomast.io/e503838e-de07-476b-a4e3-6cf146915584",
+    "logo": "https://www.eternityready.com/radio/img/100.9 FM The Hill.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Prophecy Today Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://streaming.radio.co/sa2953afc7/listen",
+    "logo": "https://www.eternityready.com/radio/img/Prophecy Today Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "Радио Канон - Radio Kanon",
+    "description": "Christian radio station from Bulgaria.",
+    "src": "http://79.98.108.170:8059/stream",
+    "logo": "https://www.eternityready.com/radio/img/Радио Канон - Radio Kanon.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Мессианское радио Орэну",
+    "description": "Christian radio station from Israel.",
+    "src": "https://listen7.myradio24.com/orenu",
+    "logo": "https://www.eternityready.com/radio/img/Мессианское радио Орэну.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Espérance",
+    "description": "Christian radio station from France.",
+    "src": "https://esperance.streamakaci.com/esperance.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Espérance.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Adventist Angels Watchman Radio",
+    "description": "Christian radio station from Kenya.",
+    "src": "http://stream-169.zeno.fm/7wh3uauhunhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3d2gzdWF1aHVuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiajIwNmRNUk5RYXFTSFJLY3VtUGpVdyIsImlhdCI6MTc1NDUzMjkwNiwiZXhwIjoxNzU0NTMyOTY2fQ.bwJ9yAEvh05xtLX3pJ6b_OFkcxdmtqFXq801MndVGp0",
+    "logo": "https://www.eternityready.com/radio/img/Adventist Angels Watchman Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "American Family Radio: Talk",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://mediaserver3.afa.net:8443/talk.mp3",
+    "logo": "https://www.eternityready.com/radio/img/American Family Radio: Talk.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian talk"
+    ]
+  },
+  {
+    "name": "FM Evangile 66",
+    "description": "Christian radio station from France.",
+    "src": "http://stream.radios-arra.fr:8000/fmevangile66",
+    "logo": "https://www.eternityready.com/radio/img/FM Evangile 66.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Ι.Μ. Λεμεσού",
+    "description": "Christian radio station from Cyprus.",
+    "src": "http://93.109.209.123:9080/stream.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Ι.Μ. Λεμεσού.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio María de la Caridad",
+    "description": "Christian radio station from Cuba.",
+    "src": "https://stream-173.zeno.fm/5rul798y3xatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1cnVsNzk4eTN4YXR2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicHNtaVIyRkFSeVczd0xRRFhRZ2pYZyIsImlhdCI6MTc1NDU0NzEwNiwiZXhwIjoxNzU0NTQ3MTY2fQ.9NvMpIDf0457bCq_1i-VspBVZxdQbRQ0B3V20wYs_1o",
+    "logo": "https://www.eternityready.com/radio/img/Radio María de la Caridad.jpeg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic radio"
+    ]
+  },
+  {
+    "name": "TheBlast.fm",
+    "description": "Christian radio station from Unknown.",
+    "src": "https://theblast-stream.theblast.fm/128",
+    "logo": "https://www.eternityready.com/radio/img/TheBlast.fm.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "alternative"
+    ]
+  },
+  {
+    "name": "Radio Oreb",
+    "description": "Christian radio station from Italy.",
+    "src": "https://stream10.xdevel.com/audio0s978098-2473/stream/icecast.audio",
+    "logo": "https://www.eternityready.com/radio/img/Radio Oreb.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Life FM - MP3",
+    "description": "Christian radio station from New Zealand.",
+    "src": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Life FM - MP3.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "88.9 Shine FM",
+    "description": "Christian radio station from Canada.",
+    "src": "https://shinefm.streamguys1.com/cjsi",
+    "logo": "https://www.eternityready.com/radio/img/88.9 Shine FM.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Rhema - MP3",
+    "description": "Christian radio station from New Zealand.",
+    "src": "https://rhema-radio.streamguys1.com/rhema.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Rhema - MP3.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "GRACE Fm",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice23.securenetsystems.net/KXGRFM",
+    "logo": "https://www.eternityready.com/radio/img/GRACE Fm.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "104.1 Favour FM - The HeartBeat Of God - Gulu - 104.1 FM (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-173.zeno.fm/u2uva230xp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MnV2YTIzMHhwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRUpRckd6elNUbi1qWHIwOUZfUkxzdyIsImlhdCI6MTc1NDU3MzI1MCwiZXhwIjoxNzU0NTczMzEwfQ.PF3u2C7ypthZ2Ln1VMdEysInJcE-vRUTtoCf9fR_3e0",
+    "logo": "https://www.eternityready.com/radio/img/104.1 Favour FM - The HeartBeat Of God - Gulu - 104.1 FM (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Sanctuary Radio Uganda - Mbuya (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-178.zeno.fm/5xgx11ryhrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1eGd4MTFyeWhyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDJsTWRJMlZRRkNBa0NEbkFfYXVFdyIsImlhdCI6MTc1NDU1MDA1NSwiZXhwIjoxNzU0NTUwMTE1fQ.CoJagotpxeS02652qaz4ydbtzd8T2OsXR1pH6Xiple8",
+    "logo": "https://www.eternityready.com/radio/img/Sanctuary Radio Uganda - Mbuya (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Z88",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice.zradio.org/z/high.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Z88.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "PreNicene Radio",
+    "description": "Christian radio station from Argentina.",
+    "src": "https://fra-pioneer01.dedicateware.com:2140/;?type=http&nocache=1743200018",
+    "logo": "https://www.eternityready.com/radio/img/PreNicene Radio.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "CRnet Hard Rock (32)",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://shoutcast.christianrock.net/stream/4/",
+    "logo": "https://www.eternityready.com/radio/img/CRnet Hard Rock (32).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "RADIO MARÍA ESPAÑA",
+    "description": "Christian radio station from Spain.",
+    "src": "http://dreamsiteradiocp2.com:8006/stream",
+    "logo": "https://www.eternityready.com/radio/img/RADIO MARÍA ESPAÑA.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "НОВЫЙ ЗАВЕТ",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "https://s.ruworship.ru:4035/stream",
+    "logo": "https://www.eternityready.com/radio/img/НОВЫЙ ЗАВЕТ.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Seasonal",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7830/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Seasonal.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Bluegrass Hymns",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7840/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Bluegrass Hymns.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Vision180",
+    "description": "Christian radio station from Australia.",
+    "src": "http://streams2.vision.org.au/vision180-128k.aac",
+    "logo": "https://www.eternityready.com/radio/img/Vision180.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian music"
+    ]
+  },
+  {
+    "name": "Радио Пилигрим Библия",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "https://radiopiligrim.ru/icecast/bible",
+    "logo": "https://www.eternityready.com/radio/img/Радио Пилигрим Библия.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Blagovesnik",
+    "description": "Christian radio station from Serbia.",
+    "src": "http://radio.eparhijabacka.info:8000/RadioBlagovesnik",
+    "logo": "https://www.eternityready.com/radio/img/Radio Blagovesnik.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Rádio Maranata Bíblica",
+    "description": "Christian radio station from Brazil.",
+    "src": "https://sv13.hdradios.net:9024/stream",
+    "logo": "https://www.eternityready.com/radio/img/Rádio Maranata Bíblica.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian-gospel"
+    ]
+  },
+  {
+    "name": "OTIBLE CHRISTIAN RADIO STATION",
+    "description": "Christian radio station from Malawi.",
+    "src": "http://stream-176.zeno.fm/pckmxy7g3uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwY2tteHk3ZzN1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOXBLNjZyZ2JTQk81WVRsV0FtYldiZyIsImlhdCI6MTc1NDU3NDkyMCwiZXhwIjoxNzU0NTc0OTgwfQ.1HBqCk6rVaNZ18HDiqb0cQvNMzUpDvpg-00kZ89fYCo",
+    "logo": "https://www.eternityready.com/radio/img/OTIBLE CHRISTIAN RADIO STATION.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian-gospel"
+    ]
+  },
+  {
+    "name": "KHNC 1360 AM",
+    "description": "Christian radio station from Unknown.",
+    "src": "https://streaming.brol.tech/rtfmlounge",
+    "logo": "https://www.eternityready.com/radio/img/KHNC 1360 AM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "STN Radio Uganda - Kampala (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-176.zeno.fm/stpzmmyknkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdHB6bW15a25raHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiam15akF1REhUN09iRlhrUlEtTy1iZyIsImlhdCI6MTc1NDUxOTg4MiwiZXhwIjoxNzU0NTE5OTQyfQ.Kpi5TX7WiBuFAT0allrE6yfgLpmU5lB-zECaiVluss0",
+    "logo": "https://www.eternityready.com/radio/img/STN Radio Uganda - Kampala (MP3).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WiGRadio",
+    "description": "Christian radio station from Nigeria.",
+    "src": "https://stream-173.zeno.fm/k4w8hv26nzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrNHc4aHYyNm56enV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNWhNaEdXSnBSZjZ5M1o4ZWJNbEFyQSIsImlhdCI6MTc1NDUxNTcwOSwiZXhwIjoxNzU0NTE1NzY5fQ.t-U4yUkKV_4h7RgBIHB40T_Oy47iuJvyvhcPD4drBWA",
+    "logo": "https://www.eternityready.com/radio/img/WiGRadio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "SW-Radio Live",
+    "description": "Christian radio station from Germany.",
+    "src": "http://segenswelle.de:8000/live",
+    "logo": "https://www.eternityready.com/radio/img/SW-Radio Live.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christian Classic Rock Dot Net",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://listen.christianrock.net/stream/14/",
+    "logo": "https://www.eternityready.com/radio/img/Christian Classic Rock Dot Net.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Sacred",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7820/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Sacred.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Gloria",
+    "description": "Christian radio station from Switzerland.",
+    "src": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
+    "logo": "https://www.eternityready.com/radio/img/Radio Gloria.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Vaticana România",
+    "description": "Christian radio station from The Holy See.",
+    "src": "https://radio.vaticannews.va/stream-ro",
+    "logo": "https://www.eternityready.com/radio/img/Radio Vaticana România.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "WYDE 92.5 FM 1260 AM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ais-sa8.cdnstream1.com/prlcci576yq/cnobygsto0d?listenerId=esTrackblock0339452&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1737245928",
+    "logo": "https://www.eternityready.com/radio/img/WYDE 92.5 FM 1260 AM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "The Christian Mix",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://199.180.72.2:10572/live",
+    "logo": "https://www.eternityready.com/radio/img/The Christian Mix.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Bona Radio Uganda (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://cast4.asurahosting.com/proxy/bonabona/stream",
+    "logo": "https://www.eternityready.com/radio/img/Bona Radio Uganda (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Orthodox Chants",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "http://orthodox-chants.ru:8000/128kb",
+    "logo": "https://www.eternityready.com/radio/img/Radio Orthodox Chants.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "chants"
+    ]
+  },
+  {
+    "name": "Biblia Audio - Radio Calea Spre Cer",
+    "description": "Christian radio station from Romania.",
+    "src": "https://panel.radiocaleasprecer.com/radio/8010/radio.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Biblia Audio - Radio Calea Spre Cer.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bible"
+    ]
+  },
+  {
+    "name": "Radio R Louange",
+    "description": "Christian radio station from Switzerland.",
+    "src": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac",
+    "logo": "https://www.eternityready.com/radio/img/Radio R Louange.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Actitud 100.9",
+    "description": "Christian radio station from Guatemala.",
+    "src": "https://ss.redradios.net:8002/stream?type=.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Actitud 100.9.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "\\"
+    ]
+  },
+  {
+    "name": "Radio Actitud",
+    "description": "Christian radio station from Guatemala.",
+    "src": "https://ss.redradios.net:8002/stream?type=.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Actitud.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian music"
+    ]
+  },
+  {
+    "name": "Radio María España",
+    "description": "Christian radio station from Spain.",
+    "src": "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/",
+    "logo": "https://www.eternityready.com/radio/img/Radio María España.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Yes.fm Worship",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice23.securenetsystems.net/YESFMWORSHIP?",
+    "logo": "https://www.eternityready.com/radio/img/Yes.fm Worship.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Радио Свет",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://pdxrr.com:8090/",
+    "logo": "https://www.eternityready.com/radio/img/Радио Свет.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Slavoslovlje",
+    "description": "Christian radio station from Serbia.",
+    "src": "http://radio.eparhijabacka.info:8000/RadioSlavoslovlje",
+    "logo": "https://www.eternityready.com/radio/img/Radio Slavoslovlje.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Dove Radio Uganda - Wakiso (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-179.zeno.fm/ldawmwxck5hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsZGF3bXd4Y2s1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTRWSUFtVC1UWUtHbGxtNS1YZkx4USIsImlhdCI6MTc1NDUxNjYzMSwiZXhwIjoxNzU0NTE2NjkxfQ.lQuu2dwD50LBBvRpq9390aOChpQ9xOEqpWQNbgUJomA",
+    "logo": "https://www.eternityready.com/radio/img/Dove Radio Uganda - Wakiso (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Z88.3",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice.zradio.org/z/high.aac",
+    "logo": "https://www.eternityready.com/radio/img/Z88.3.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "SW-Radio Russisch",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "http://www.segenswelle.de:8000/russisch",
+    "logo": "https://www.eternityready.com/radio/img/SW-Radio Russisch.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "CRnet Classic Rock (128)",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://shoutcast.christianrock.net/stream/9/",
+    "logo": "https://www.eternityready.com/radio/img/CRnet Classic Rock (128).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Rejoice Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://rejoice.primcast.com/proxy/rejoice_radio/stream",
+    "logo": "https://www.eternityready.com/radio/img/Rejoice Radio.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Άγιος Σπυρίδων 91.1",
+    "description": "Christian radio station from Greece.",
+    "src": "http://s3.onweb.gr:8462/",
+    "logo": "https://www.eternityready.com/radio/img/Άγιος Σπυρίδων 91.1.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "ecclesia"
+    ]
+  },
+  {
+    "name": "RCF Sud Belgique",
+    "description": "Christian radio station from Belgium.",
+    "src": "http://rcf.streamakaci.com/rcfsudbe.mp3",
+    "logo": "https://www.eternityready.com/radio/img/RCF Sud Belgique.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Holy Culture Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://nap.casthost.net:8070/;",
+    "logo": "https://www.eternityready.com/radio/img/Holy Culture Radio.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian hip hop"
+    ]
+  },
+  {
+    "name": "Christ Radio - Lira (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-174.zeno.fm/zupkzgrj4dauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6dXBremdyajRkYXV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnd0enUwZFVUTDJ6NWhtMnRZZDhKQSIsImlhdCI6MTc1NDU2NDQwMSwiZXhwIjoxNzU0NTY0NDYxfQ.wn1UE8sZleeJApKF-tq394Tg4kb5t_Svny1f_6Kl66k",
+    "logo": "https://www.eternityready.com/radio/img/Christ Radio - Lira (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "thegreatiamb Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://stream-174.zeno.fm/0ntnamyl4q7uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwbnRuYW15bDRxN3V2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDNoNnY5S2JRcS1wSm5XQUlpWkstUSIsImlhdCI6MTc1NDUzNTIxNiwiZXhwIjoxNzU0NTM1Mjc2fQ.wo9eqsm6FYv77qW3169DnGELDB41AkNoOVBHISQo_uI",
+    "logo": "https://www.eternityready.com/radio/img/thegreatiamb Radio.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "americana"
+    ]
+  },
+  {
+    "name": "WDAC FM 94.5 HD1",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice66.securenetsystems.net/WDAC",
+    "logo": "https://www.eternityready.com/radio/img/WDAC FM 94.5 HD1.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "The JOY FM (Classic Joy)",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://rtn.cdnstream1.com/2583_96.aac?rand=30455",
+    "logo": "https://www.eternityready.com/radio/img/The JOY FM (Classic Joy).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "contemporary christian"
+    ]
+  },
+  {
+    "name": "RadioU Throwback",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://s5.reliastream.com/proxy/throwback?mp=",
+    "logo": "https://www.eternityready.com/radio/img/RadioU Throwback.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "KIOU 1480AM - 94.9FM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice41.securenetsystems.net/KIOU",
+    "logo": "https://www.eternityready.com/radio/img/KIOU 1480AM - 94.9FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Life FM - Bathurst - 100.1 FM (MP3)",
+    "description": "Christian radio station from Australia.",
+    "src": "https://stream2.cnmns.net/lifefmbathurst",
+    "logo": "https://www.eternityready.com/radio/img/Life FM - Bathurst - 100.1 FM (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Славянское RadioMV",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://stream.radiomv.com/slavic/stream.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Славянское RadioMV.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Vitrola Abençoada",
+    "description": "Christian radio station from Brazil.",
+    "src": "http://stream-175.zeno.fm/36g0w08q9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzNmcwdzA4cTliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTlU4Tlg2VHpTeGVVbWRXbkdhNzVMUSIsImlhdCI6MTc1NDUyODkzMywiZXhwIjoxNzU0NTI4OTkzfQ.Nqk5_tTZPU2lV5tpbJbeRw4tPS0rC8epCpdAZp0M9HY",
+    "logo": "https://www.eternityready.com/radio/img/Vitrola Abençoada.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Yoo (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-179.zeno.fm/v73tc5gwaphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2NzN0YzVnd2FwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib21iTDUwdUlSWks0ZGplQTJ0bktydyIsImlhdCI6MTc1NDQ5ODEzMCwiZXhwIjoxNzU0NDk4MTkwfQ.t_7jkmfx15YIgYHf0AytZII5PmjoKL00S_7pmdMpwcw",
+    "logo": "https://www.eternityready.com/radio/img/Radio Yoo (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Express-FM Digital",
+    "description": "Christian radio station from South Africa.",
+    "src": "http://198.7.59.28:34235/stream",
+    "logo": "https://www.eternityready.com/radio/img/Express-FM Digital.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "RADJU MARIJA MALTA",
+    "description": "Christian radio station from Malta.",
+    "src": "http://dreamsiteradiocp.com:8102/stream",
+    "logo": "https://www.eternityready.com/radio/img/RADJU MARIJA MALTA.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Life 4 enjoy",
+    "description": "Christian radio station from Germany.",
+    "src": "http://life4enjoy.stream.laut.fm/life4enjoy?t302=2025-08-07_14-50-18&uuid=8b3c34dc-49ac-4cea-996a-286b3fc2314c",
+    "logo": "https://www.eternityready.com/radio/img/Life 4 enjoy.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "104.1 Favour FM - The HeartBeat Of God - Gulu - 104.1 FM",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-173.zeno.fm/u2uva230xp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MnV2YTIzMHhwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSmE5MXVtZG1RcEt1NmRtcmh1YTJ5dyIsImlhdCI6MTc1NDU3NjQ2OCwiZXhwIjoxNzU0NTc2NTI4fQ.mRx1bBM55tuwyWkSUzbtM7DZP7L4vPLGRvZXXZjXkHY",
+    "logo": "https://www.eternityready.com/radio/img/104.1 Favour FM - The HeartBeat Of God - Gulu - 104.1 FM.webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102",
+    "description": "Christian radio station from Greece.",
+    "src": "http://s5.onweb.gr:8508/;",
+    "logo": "https://www.eternityready.com/radio/img/Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Λυδία 94.2",
+    "description": "Christian radio station from Greece.",
+    "src": "http://eu1.radiolydia.com:1086/stream",
+    "logo": "https://www.eternityready.com/radio/img/Λυδία 94.2.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "orthodox christian"
+    ]
+  },
+  {
+    "name": "Ewhradio - Kampala (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-174.zeno.fm/6p2uru1rg98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2cDJ1cnUxcmc5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM24yY2hYLXVRYWVWTlI4RzFLOFI2USIsImlhdCI6MTc1NDUzMjkwMCwiZXhwIjoxNzU0NTMyOTYwfQ.NzDIIYbRv7XtAYfAxxX5bS33uz57nOa4sWY0EaLQ3_4",
+    "logo": "https://www.eternityready.com/radio/img/Ewhradio - Kampala (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WOWCCM",
+    "description": "Christian radio station from The Republic Of Korea.",
+    "src": "http://wowccm.iptime.org:8000/stream/1/",
+    "logo": "https://www.eternityready.com/radio/img/WOWCCM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian-gospel"
+    ]
+  },
+  {
+    "name": "181.FM - Christmas Spirit",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://listen.181fm.com/181-xspirit_128k.mp3",
+    "logo": "https://www.eternityready.com/radio/img/181.FM - Christmas Spirit.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Открытое Слово",
+    "description": "Christian radio station from Belarus.",
+    "src": "https://rt.radioslovo.net:4395/radio",
+    "logo": "https://www.eternityready.com/radio/img/Открытое Слово.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Maria Austria (56 kbps)",
+    "description": "Christian radio station from Austria.",
+    "src": "http://live.radiomaria.at:8000/rma2",
+    "logo": "https://www.eternityready.com/radio/img/Radio Maria Austria (56 kbps).ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio Freundesdienst Schweiz",
+    "description": "Christian radio station from Switzerland.",
+    "src": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Freundesdienst Schweiz.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Ι.Μ. Αιτωλίας και Ακαρνανίας 106.3",
+    "description": "Christian radio station from Greece.",
+    "src": "http://s3.onweb.gr:8038/stream?type=http&nocache=501",
+    "logo": "https://www.eternityready.com/radio/img/Ι.Μ. Αιτωλίας και Ακαρνανίας 106.3.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Kids",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7810/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Kids.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Laef FM",
+    "description": "Christian radio station from Vanuatu.",
+    "src": "https://stream4.rcast.net/69310",
+    "logo": "https://www.eternityready.com/radio/img/Radio Laef FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian music"
+    ]
+  },
+  {
+    "name": "RadioMV Spanish",
+    "description": "Christian radio station from Spain.",
+    "src": "https://ice.radiomv.co:8440/spanish.mp3",
+    "logo": "https://www.eternityready.com/radio/img/RadioMV Spanish.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Nakawa Online Radio - Kampala (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-176.zeno.fm/6hs5suuvqfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2aHM1c3V1dnFmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ1ZBS3BFYmxUTy1yaDNSdFBWT21rZyIsImlhdCI6MTc1NDU3Mzg2MSwiZXhwIjoxNzU0NTczOTIxfQ.g5fQEExS3cxfNXecjm3X4KsF8cqPf4zp87kgmrL5q3E",
+    "logo": "https://www.eternityready.com/radio/img/Nakawa Online Radio - Kampala (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Abiding Radio - Seasonal",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://streams.abidingradio.com:7830/1",
+    "logo": "https://www.eternityready.com/radio/img/Abiding Radio - Seasonal.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Presence Lourdes",
+    "description": "Christian radio station from France.",
+    "src": "http://direct.radiopresence.com/radio-presence-lourdes",
+    "logo": "https://www.eternityready.com/radio/img/Radio Presence Lourdes.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christmas Vinyl HD",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://icecast.walmradio.com:8443/christmas",
+    "logo": "https://www.eternityready.com/radio/img/Christmas Vinyl HD.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Vaticana Solvenčina",
+    "description": "Christian radio station from The Holy See.",
+    "src": "https://radio.vaticannews.va/stream-sk",
+    "logo": "https://www.eternityready.com/radio/img/Radio Vaticana Solvenčina.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio Maria Canada",
+    "description": "Christian radio station from Canada.",
+    "src": "http://dreamsiteradiocp.com:8016/",
+    "logo": "https://www.eternityready.com/radio/img/Radio Maria Canada.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Radio7",
+    "description": "Christian radio station from Czechia.",
+    "src": "http://icecast8.play.cz/radio7-128.mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio7.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Seasons by Rejoice Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://rejoice.primcast.com/proxy/seasons/stream",
+    "logo": "https://www.eternityready.com/radio/img/Seasons by Rejoice Radio.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WFRN 104.7",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://das-edge14-live365-dal02.cdnstream.com/a00051",
+    "logo": "https://www.eternityready.com/radio/img/WFRN 104.7.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "104.9 The River",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://stream.riverradio.com:8000/wcvofm.mp3",
+    "logo": "https://www.eternityready.com/radio/img/104.9 The River.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "生命之光广播电台",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://n03.radiojar.com/z3ctv2zxm2zuv.m4a?rj-ttl=5&rj-tok=AAABmISdTc4AwPyd--23BB4UUw",
+    "logo": "https://www.eternityready.com/radio/img/生命之光广播电台.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "Γαλιλαία",
+    "description": "Christian radio station from Greece.",
+    "src": "http://s2.onweb.gr:8446/;",
+    "logo": "https://www.eternityready.com/radio/img/Γαλιλαία.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Christian Radio City of Eden",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "http://listen7.myradio24.com/cityeden",
+    "logo": "https://www.eternityready.com/radio/img/Christian Radio City of Eden.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Neue Hoffnung",
+    "description": "Christian radio station from Switzerland.",
+    "src": "https://stream.mnr.ch/rnh-mp3",
+    "logo": "https://www.eternityready.com/radio/img/Radio Neue Hoffnung.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WDAC FM 94.5 HD2",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice66.securenetsystems.net/WDACHD2",
+    "logo": "https://www.eternityready.com/radio/img/WDAC FM 94.5 HD2.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Слово Благодати",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://c13.radioboss.fm:18516/stream",
+    "logo": "https://www.eternityready.com/radio/img/Слово Благодати.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Canal Mormon - Canal de los Santos",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://nmcdn-lds.msvdn.net/icecastRelay/101157/V2Pm3WE/icecast?rnd=637109879429639917",
+    "logo": "https://www.eternityready.com/radio/img/Canal Mormon - Canal de los Santos.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Church Radio (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-173.zeno.fm/k0weys53f78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrMHdleXM1M2Y3OHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSlgwRFpRMnpRYW1TcF94ZzA0bkJhUSIsImlhdCI6MTc1NDUyODAxMywiZXhwIjoxNzU0NTI4MDczfQ.9zZFTQ5P1wrlTP3uet6sdE7byYGXT-pko-x3fOaKOsA",
+    "logo": "https://www.eternityready.com/radio/img/Church Radio (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Мессианское онлайн радио Орэну",
+    "description": "Christian radio station from Israel.",
+    "src": "https://listen7.myradio24.com/orenu",
+    "logo": "https://www.eternityready.com/radio/img/Мессианское онлайн радио Орэну.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Radio Vaticana Belarus",
+    "description": "Christian radio station from The Holy See.",
+    "src": "https://radio.vaticannews.va/stream-be",
+    "logo": "https://www.eternityready.com/radio/img/Radio Vaticana Belarus.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  },
+  {
+    "name": "Buyinza FM (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-173.zeno.fm/wcancipcbrevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Y2FuY2lwY2JyZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidFJJSVgxRFhSYTJXUDExZ2ZhMUZJUSIsImlhdCI6MTc1NDU3ODg3NSwiZXhwIjoxNzU0NTc4OTM1fQ.Ca69GL7_efIuOGWYiuI5SPUZWzN4tZOacJF-7lQ9JV0",
+    "logo": "https://www.eternityready.com/radio/img/Buyinza FM (MP3).webp",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "91.7 Equip FM",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice66.securenetsystems.net/EQUIPFM?playSessionID=44ED3B1E-A57C-3532-23802CC6B00D9CFD",
+    "logo": "https://www.eternityready.com/radio/img/91.7 Equip FM.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Sonshine Kids by Rejoice Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://rejoice.primcast.com/proxy/sonshine/sonshine",
+    "logo": "https://www.eternityready.com/radio/img/Sonshine Kids by Rejoice Radio.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Heiligenkreuz_101 (102k)",
+    "description": "Christian radio station from Austria.",
+    "src": "http://live.radiomaria.at:8000/rma101",
+    "logo": "https://www.eternityready.com/radio/img/Heiligenkreuz_101 (102k).ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "chatolic"
+    ]
+  },
+  {
+    "name": "Faith Radio Network",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "http://nwmedia-ktisam.streamguys1.com/ktis-am",
+    "logo": "https://www.eternityready.com/radio/img/Faith Radio Network.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Bibel TV Musik",
+    "description": "Christian radio station from Germany.",
+    "src": "http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "logo": "https://www.eternityready.com/radio/img/Bibel TV Musik.svg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "bibel"
+    ]
+  },
+  {
+    "name": "Радио Пилигрим Музыка",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "https://radiopiligrim.ru/icecast/none-stop",
+    "logo": "https://www.eternityready.com/radio/img/Радио Пилигрим Музыка.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Power 88 WBHY",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://us2.maindigitalstream.com/ssl/POWER88",
+    "logo": "https://www.eternityready.com/radio/img/Power 88 WBHY.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Piano Worship",
+    "description": "Christian radio station from The Russian Federation.",
+    "src": "https://s.ruworship.ru:4045/stream",
+    "logo": "https://www.eternityready.com/radio/img/Piano Worship.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "logo": "https://www.eternityready.com/radio/img/104.1 Favour FM - Gulu - 104.1 FM (MP3).png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "WBCL 90.3 FM Ft. Wayne, IN",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://ice9.securenetsystems.net/WBCL",
+    "logo": "https://www.eternityready.com/radio/img/WBCL 90.3 FM Ft. Wayne, IN.png",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian contemporary"
+    ]
+  },
+  {
+    "name": "Ewh Radio - Kampala (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://stream-174.zeno.fm/d359hu1rg98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkMzU5aHUxcmc5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiakFWbEdhYjlUNjZRNTk0eHZxZ3o5dyIsImlhdCI6MTc1NDU0Njg0NiwiZXhwIjoxNzU0NTQ2OTA2fQ.IdV1d4ozL_hy0Eh6XTIXm1Bn4O9Cge7qJnd60uSuqAI",
+    "logo": "https://www.eternityready.com/radio/img/Ewh Radio - Kampala (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "MBG Versmold",
+    "description": "Christian radio station from Germany.",
+    "src": "https://server7.streamserver24.com:61424/klein",
+    "logo": "https://www.eternityready.com/radio/img/MBG Versmold.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Innerman FM - Kampala - 107.5 FM (MP3)",
+    "description": "Christian radio station from Uganda.",
+    "src": "http://dc4.serverse.com/proxy/aqzyrakq/stream",
+    "logo": "https://www.eternityready.com/radio/img/Innerman FM - Kampala - 107.5 FM (MP3).jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "christian"
+    ]
+  },
+  {
+    "name": "Amazing Facts Radio",
+    "description": "Christian radio station from The United States Of America.",
+    "src": "https://stream.radio.co/sbdda28f12/listen",
+    "logo": "https://www.eternityready.com/radio/img/Amazing Facts Radio.jpg",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "adventist"
+    ]
+  },
+  {
+    "name": "Radio Marija Hrvatska",
+    "description": "Christian radio station from Croatia.",
+    "src": "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream",
+    "logo": "https://www.eternityready.com/radio/img/Radio Marija Hrvatska.ico",
+    "tags": [
+      "",
+      ""
+    ],
+    "rating": 4,
+    "categories": [
+      "catholic"
+    ]
+  }
+]
